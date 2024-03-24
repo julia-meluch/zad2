@@ -99,8 +99,11 @@ Archive: test.docx
  1374 2022-03-20 08:55 [Content_Types].xml
 ```
 Wszystkie te języki znaczników cechują się rozbudowaną i złożoną składnią i dlatego do ich edycji wymagają najczęściej dedykowanych narzędzi w postaci specjalizowanych edytorów. By wyeliminować powyższą niedogodność powstał **Markdown** - uproszczony język znaczników służący do formatowania dokumentów tekstowych (bez konieczności używania specjalizowanych narzędzi). Dokumenty w tym formacie można bardzo łatwo konwertować do wielu innych formatów: np. html, pdf, ps (postscript), epub, xml i wiele innych. Format ten jest powszechnie używany do tworzenia plików README.md (w projektach open source) i powszechnie obsługiwany przez serwery git’a. Język ten został stworzony w 2004 r. a jego twórcami byli John Gruber i Aaron Swartz. W kolejnych latach podjęto prace w celu stworzenia standardu rozwiązania i tak w 2016 r. opublikowano dokument [RFC 7764](https://datatracker.ietf.org/doc/html/rfc7764) który zawiera opis kilku odmian tegoż języka:
+
 + CommonMark,
+
 + GitHub Flavored Markdown (GFM),
+ 
 + Markdown Extra.
 
 ## Podstawy składni
@@ -158,4 +161,16 @@ internetowych
 ![grafika9](grafika9.png)
 
 ## Edytory dedykowane
+
+Pracę nad dokumentami w formacie Markdown( rozszerzenie md) można wykonywać w dowolnym edytorze tekstowym. Aczkolwiek istnieje wiele dedykowanych narzędzi
+
+1. marktext - https://github.com/marktext/marktext
+   
+2. https://hackmd.io/ online editor
+  
+3. Visual Studio Code z wtyczką „markdown preview”
+
+
+![grafika10](grafika10.png)
+
 ## Pandoc - system do konwersji dokumentów Markdown do innych formatów
