@@ -32,7 +32,7 @@ umieszczanych w plikach tekstowych. Z pośród najbardziej popularnych można ws
 3. **XML** *(Extensible Markup Language)* - uniwersalnym języku znaczników przeznaczonym
 do reprezentowania różnych danych w ustrukturalizowany sposób.
 Przykład kodu html i jego interpretacja w przeglądarce:
-<!DOCTYPE html>                                   
+```<!DOCTYPE html>                                   
 <html>
 <head>
 <meta charset="utf-8" />
@@ -41,8 +41,8 @@ Przykład kodu html i jego interpretacja w przeglądarce:
 <body>
 <p> Jakiś paragraf tekstu</p>
 </body>
-</html>
-![html](grafika1.png)
+</html>```
+[html](grafika1.png)
 ## Podstawy składni
 ### Definiowanie nagłówków
 ### Definiowanie list
