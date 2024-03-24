@@ -41,8 +41,8 @@ Przykład kodu html i jego interpretacja w przeglądarce:
 <body>
 <p> Jakiś paragraf tekstu</p>
 </body>
-</html>```
-[html](grafika1.png)
+</html>
+![html](grafika1.png)
 ## Podstawy składni
 ### Definiowanie nagłówków
 ### Definiowanie list
